@@ -23,3 +23,6 @@ In Windows system
   .\mzitu
 ```
 
+# License
+[MIT](https://sndnvaps.mit-license.org/2018)
+
